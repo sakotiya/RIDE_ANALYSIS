@@ -9,11 +9,11 @@ In this project we are analysing a ride-sharing app company valued at $2.3 billi
 
 ## Results and Analysis
 
-We are analysing the ride sharing data with the three types of cities i.e Urban, Rural and Suburban. We are comparing the data for these three city types and exploring which area improvement is required and how can we serve underserved neighborhoods.
+We are analysing the ride sharing data with the three types of cities i.e Urban, Rural and Suburban. We are comparing the data for these three city types and exploring in which area improvement is required and how can we serve underserved neighborhoods.
 
 ![alt text](Resources/Final_analysis1.png)
 
-1. As we can see that Urban city types has highest number of total rides  1,625, followed with Surburban and least is of Rural. Also total number of drivers in the Urban cities are very high i.e 2,405 , but number of rides is 1,625. this explains that 780 drivers are not getting rides.this is drawback that can be improvised by increasing campaginig and marketing in Urban areas.
+1. As we can see that Urban city types has highest number of total rides  1,625, followed with Surburban and least is of Rural. Also total number of drivers in the Urban cities are very high i.e 2,405 , but number of rides is 1,625. This explains that 780 drivers are not getting rides.This is drawback that can be improvised by increasing campaigning and marketing in Urban areas.
 2. We can also infer that Average fare per Ride in Urban cities are less i.e $24.83 compared to Rural Cities which is $34.82. Although number of rides and number of drives in rural areas are very less the average fare per ride is highest among the three. Also average fare per driver is very high $55.49. So this concludes that rural drivers are earning more compared with Urban city drivers due to demand supply issues. 
 3. Total Fare in Urban cities is highest $39,854 and least fare is $4,328. There is good earning for drivers in rural city type and very low earning for drivers in Urban City types.
 
